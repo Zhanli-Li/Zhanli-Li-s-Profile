@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @lizhanli123
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning and pytorch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hello, welcome to my GitHub profile! 👋
+
+I am an undergraduate student who loves programming and technology.
+
+- 🎓 **Education**: Currently studying at **Zhongnan University of Economics and Law**.
+- 🌱 **Currently Learning**: Focusing on learning **PyTorch** and **Natural Language Processing (NLP)**.
+- 🔭 **Interests**: Particularly interested in **FinTech** and **Deep Learning**.
+- 💬 **Let's Connect**: If you have any questions or ideas about **FinTech** or **Deep Learning**, feel free to discuss with me!
+- 📫 **Contact**:
+  - 📧 Email: **lizhanli@stu.zuel.edu.cn**
+
 
 <!---
 lizhanli123/lizhanli123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
