@@ -4,7 +4,7 @@ I am an undergraduate student who loves programming and technology.
 
 - 🎓 **Education**: Currently studying at **Zhongnan University of Economics and Law**.
 - 🌱 **Currently Learning**: Focusing on learning **PyTorch** and **Natural Language Processing (NLP)**.
-- 🔭 **Interests**: Particularly interested in **FinTech** and **Deep Learning**.
+- 🔭 **Interests**: Particularly interested in **NLP** and **Fintech**.
 - 💬 **Let's Connect**: If you have any questions or ideas about my project, feel free to discuss with me!
 - 📫 **Contact**:
   - 📧 Email: **lizhanli@stu.zuel.edu.cn**
